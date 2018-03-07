@@ -1,0 +1,4 @@
+Bundle-Name: ejb-test-portlet
+Bundle-SymbolicName: im.ligas.ejb.sample.portlet
+Bundle-Version: 1.0.0
+Export-Package: im.ligas.ejb.sample.portlet.constants
